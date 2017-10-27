@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10cm"
+   height="3cm"
+   viewBox="0 0 100 29.999999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logoJorgeAbarca.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="27.214286 : -5.4107147 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="127.21429 : -5.4107147 : 1"
+       inkscape:persp3d-origin="77.214286 : -10.410714 : 1"
+       id="perspective14" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-75.714286"
+     inkscape:cy="202.03033"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-267.00001)">
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g16"
+       inkscape:perspectiveID="#perspective14"
+       inkscape:corner0="5.0128849 : 0.060261277 : 0 : 1"
+       inkscape:corner7="0.53817983 : 0.033090093 : 2.0876537 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path18"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 35.529762,293.22025 v 4.51882 l 23.628743,1.20397 v -3.35424 z"
+         points="35.529762,297.73907 59.158505,298.94304 59.158505,295.5888 35.529762,293.22025 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path28"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="m 59.158505,295.5888 39.422924,-8.41906 v 7.49377 l -39.422924,4.27953 z"
+         points="98.581429,287.16974 98.581429,294.66351 59.158505,298.94304 59.158505,295.5888 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path20"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="m 35.529762,293.22025 24.190477,-26.73594 38.86119,20.68543 -39.422924,8.41906 z"
+         points="59.720239,266.48431 98.581429,287.16974 59.158505,295.5888 35.529762,293.22025 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path26"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="m 35.529762,297.73907 24.190477,-13.59025 38.86119,10.51469 -39.422924,4.27953 z"
+         points="59.720239,284.14882 98.581429,294.66351 59.158505,298.94304 35.529762,297.73907 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path24"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="m 59.720239,266.48431 v 17.66451 l 38.86119,10.51469 v -7.49377 z"
+         points="59.720239,284.14882 98.581429,294.66351 98.581429,287.16974 59.720239,266.48431 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path22"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="m 35.529762,293.22025 24.190477,-26.73594 v 17.66451 l -24.190477,13.59025 z"
+         points="59.720239,266.48431 59.720239,284.14882 35.529762,297.73907 35.529762,293.22025 " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.267858"
+       y="280.36905"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="2.267858"
+         y="280.36905"
+         style="stroke-width:0.26458332">Jorge Abarca</tspan></text>
+    <path
+       sodipodi:type="star"
+       id="path46"
+       sodipodi:sides="5"
+       sodipodi:cx="98.581429"
+       sodipodi:cy="287.16974"
+       sodipodi:r1="16.20863"
+       sodipodi:r2="8.1043158"
+       sodipodi:arg1="-2.6030921"
+       sodipodi:arg2="-1.9747735"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 84.666666,278.85715 10.72913,0.86063 6.791474,-8.3505 2.49698,10.46996 10.04047,3.87863 -9.18591,5.61016 -0.58612,10.74762 -8.174182,-7.00268 -10.402715,2.76376 4.133988,-9.93806 z"
+       inkscape:transform-center-x="-0.76430567"
+       inkscape:transform-center-y="-0.34085292"
+       style="stroke-width:0.26458332"
+       transform="matrix(0.68592846,0,0,0.75867747,17.149611,62.401792)" />
+  </g>
+</svg>
